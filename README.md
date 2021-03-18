@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ...Front end
-- 🌱 I’m currently learning ...React js 
+- 🌱 I’m currently learning ...java backend
 - 👯 I’m looking to collaborate on ...front end development
 - 🤔 I’m looking for help with ...javascript
 - 💬 Ask me about ...java, c++,c, HTML,CSS, javaScript, React Js.
